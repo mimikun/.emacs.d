@@ -1,0 +1,16 @@
+* Initialize
+** Header
+#+begin_src emacs-lisp
+  ;; init.el --- My init.el -*- lexical-binding: t -*-
+  ;; Configurations for Emacs
+  ;;                                         mimikun
+#+end_src
+** Options
+#+begin_src emacs-lisp
+  (message "Started!")
+#+end_src
+** Neovim configs
+#+begin_comment
+
+#+end_comment
+
